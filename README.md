@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪙 FinMentor AI
+# 🪙 Financial Mentor AI
 
 ### AI-Powered Personal Finance Mentor for India
 
